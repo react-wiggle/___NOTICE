@@ -6,7 +6,7 @@
 2. pull 받을게 있으면 pull 받기
 3. 작업 후 commit
 4. 다시 fetch하여 pull 받을게 있으면 pull 받기
-5. 작업한 코드랑 conflict 되는 부분이 있는지 확인
+5. pull 받은 코드와 작업한 코드가 conflict 되는 부분이 있는지 확인
 6. 확인되었으면 push 한 후 Pull Request 요청하기
 
 # Pull Request 만들기
