@@ -17,6 +17,7 @@
 
 # Pull Request 만들기
 1) fork
+
 ① 팀장의 Repository에 접속한 후 Fork 버튼을 누른다.
  
 ② Create a fork를 누른다.
@@ -24,6 +25,7 @@
 ③ 자신의 Repository에서 fork로 생성된 새로운 저장소를 확인할 수 있다.
  
 2) Clone, Remote
+   
 ① fork로 생성한 본인의 Repository에서 Code 버튼을 눌러 HTTPS 주소를 복사한다.
 코드를 수정한다.
 
